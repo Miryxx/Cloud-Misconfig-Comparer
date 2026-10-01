@@ -2,7 +2,7 @@
 
 A Java prototype I built for my Information Assurance class at UNF. It takes the JSON output from two IaC security scanners, Checkov and Terrascan, and converts it into one common format so the results can be compared directly.
 
-This is an academic prototype. Some paths are hardcoded and it isn't production-ready. The paper I wrote about it covers the design and results in more detail: (paper link coming soon)
+This is an academic prototype. Some paths are hardcoded and it isn't production-ready. The paper I wrote about it covers the design and results in more detail: [the paper](InfoAssuranceFinalPaper.pdf)
 
 ## Why I built it
 
